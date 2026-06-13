@@ -1,0 +1,1 @@
+Hi ${userName}, your payment of Rs.${amount} to ${merchant} failed. Reason: ${reason}. Please try again.

@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "twillio.account-sid",
+    "type": "java.lang.String",
+    "description": "A description for 'twillio.account-sid'"
+  },
+  {
+    "name": "twillio.auth-token",
+    "type": "java.lang.String",
+    "description": "A description for 'twillio.auth-token'"
+  },
+  {
+    "name": "twillio.from-phone-number",
+    "type": "java.lang.String",
+    "description": "A description for 'twillio.from-phone-number'"
+  }
+]}

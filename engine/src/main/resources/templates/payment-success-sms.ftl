@@ -1,0 +1,1 @@
+Hi ${userName}, your payment of Rs.${amount} to ${merchant} was successful on ${date}. Txn ID: ${transactionId}
