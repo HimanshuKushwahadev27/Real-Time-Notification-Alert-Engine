@@ -10,5 +10,6 @@ public record NotificationRequest(
     NotificationPriority priority,
     String templateId,
     Map<String, String> payload,
-    NotificationPreference preference
+    NotificationPreference preference,
+    int retryCount
 ) {}
