@@ -13,5 +13,25 @@
     "name": "twillio.from-phone-number",
     "type": "java.lang.String",
     "description": "A description for 'twillio.from-phone-number'"
+  },
+  {
+    "name": "notification.topics.retry",
+    "type": "java.lang.String",
+    "description": "A description for 'notification.topics.retry'"
+  },
+  {
+    "name": "notification.topics.dlq",
+    "type": "java.lang.String",
+    "description": "A description for 'notification.topics.dlq'"
+  },
+  {
+    "name": "notification.retry.max-attempts",
+    "type": "java.lang.String",
+    "description": "A description for 'notification.retry.max-attempts'"
+  },
+  {
+    "name": "spring.config.use-legacy-processing",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.use-legacy-processing'"
   }
 ]}
